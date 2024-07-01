@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rameez Siddiqui</h1>
 <h3 align="center">Aspiring Flutter Developer 🚀</h3>
 
-<img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=remzyyy&label=Profile%20views&color=0e75b6&style=flat" alt="remzyyy" /> </p>
@@ -9,6 +10,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=remzyyy" alt="remzyyy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rameezsidd74649" target="blank"><img src="https://img.shields.io/twitter/follow/rameezsidd74649?logo=twitter&style=for-the-badge" alt="rameezsidd74649" /></a> </p>
+
+- 🔭 I’m currently working on **App development and Full-stack development**
+
+- 🌱 I’m currently learning **Dart and it's Backend Frameworks**
+
+- 👯 I’m looking to collaborate on **Any Project or freelancing**
 
 - 👨‍💻 All of my projects are available at [http://rameez-portfolio.netlify.app](http://rameez-portfolio.netlify.app)
 
