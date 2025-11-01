@@ -20,9 +20,9 @@
 
 - 👨‍💻 All of my projects are available at [http://rameez-portfolio.netlify.app](http://rameez-portfolio.netlify.app)
 
-- 💬 Ask me about **c++,java,Flutter**
+- 💬 Ask me about **c++,Python,java,Web-Development,Flutter**
 
-- 📫 How to reach me **b122089@iiit-bh.ac.in**
+- 📫 How to reach me **rameezsid1234@gmail.com**
 
 - ⚡ Fun fact **I code like a ninja – silent keystrokes, debugging stealthily, and leaving behind clean commits as my signature move. 🐱‍💻🥷**
 
