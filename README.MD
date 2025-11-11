@@ -16,9 +16,9 @@
 
 - 🌱 I’m currently learning **Dart and it's Backend Frameworks**
 
-- 👯 I’m looking to collaborate on **Any Project or freelancing**
+- 👯 I’m looking to collaborate on **Any Project or freelancing**   
 
-- 👨‍💻 All of my projects are available at [http://rameez-portfolio.netlify.app](http://rameez-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://remzyy-portfolio.netlify.app/](https://remzyy-portfolio.netlify.app/)
 
 - 💬 Ask me about **c++,Python,java,Web-Development,Flutter**
 
